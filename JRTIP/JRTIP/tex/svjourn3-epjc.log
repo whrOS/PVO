@@ -1,0 +1,827 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2018.10.7)  29 OCT 2018 10:42
+entering extended mode
+**G:/Github/PVO_ctex/JRTIP/tex/svjourn3-epjc.tex
+(G:/Github/PVO_ctex/JRTIP/tex/svjourn3-epjc.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(G:\Github\PVO_ctex\JRTIP\tex\svjour3.cls
+Document Class: svjour3 2010/11/25 v3.3 
+LaTeX document class for Springer journals
+(C:\CTEX\MiKTeX\tex\latex\base\fleqn.clo
+File: fleqn.clo 1998/08/17 v1.1c Standard LaTeX option (flush left equations)
+\mathindent=\dimen102
+)
+
+Class Springer-SVJour3 Warning: Specified option or subpackage "pdftex" not fou
+nd - on input line 127.
+
+(G:\Github\PVO_ctex\JRTIP\tex\svepjc3.clo
+File: svepjc3.clo 2011/08/26 v1.2 style option for the EPJC journal
+
+SVJour Class option: svepjc3.clo for EPJC journal
+)
+Class Springer-SVJour3 Info: extra/valid Springer sub-package (-> *.clo) 
+(Springer-SVJour3)           not found in option list of \documentclass
+(Springer-SVJour3)           - autoactivating "global" style.
+ (G:\Github\PVO_ctex\JRTIP\tex\svglov3.clo
+File: svglov3.clo 2009/12/18 v3.2 style option for standardised journals
+
+SVJour Class option: svglov3.clo for standardised journals
+)
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 147.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 148.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 149.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 150.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 151.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 152.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 153.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 154.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 156.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 157.
+\logodepth=\dimen103
+\headerboxheight=\dimen104
+\betweenumberspace=\dimen105
+\aftertext=\dimen106
+\headlineindent=\dimen107
+\c@inst=\count79
+\c@auth=\count80
+\instindent=\dimen108
+\authrun=\box26
+\authorrunning=\toks14
+\titrun=\box27
+\titlerunning=\toks15
+\combirun=\box28
+\c@lastpage=\count81
+\rubricwidth=\dimen109
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\spthmsep=\dimen110
+\c@theorem=\count87
+\c@case=\count88
+\c@conjecture=\count89
+\c@corollary=\count90
+\c@definition=\count91
+\c@example=\count92
+\c@exercise=\count93
+\c@lemma=\count94
+\c@note=\count95
+\c@problem=\count96
+\c@property=\count97
+\c@proposition=\count98
+\c@question=\count99
+\c@solution=\count100
+\c@remark=\count101
+\c@figure=\count102
+\c@table=\count103
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\figcapgap=\dimen111
+\tabcapgap=\dimen112
+\figgap=\dimen113
+\bibindent=\dimen114
+\@tempcntc=\count104
+) (G:\Github\PVO_ctex\JRTIP\tex\svepjc3.clo
+\c@thanks=\count105
+\c@addressref=\count106
+)
+(C:\CTEX\MiKTeX\tex\latex\base\fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(C:\CTEX\MiKTeX\tex\latex\base\t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(C:\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count107
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen117
+))
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen118
+)
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count108
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count109
+\leftroot@=\count110
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count111
+\DOTSCASE@=\count112
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen119
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+
+
+Package amsmath Warning: Unable to redefine math accent \vec.
+
+\macc@depth=\count113
+\c@MaxMatrixCols=\count114
+\dotsspace@=\muskip10
+\c@parentequation=\count115
+\dspbrk@lvl=\count116
+\tag@help=\toks18
+\row@=\count117
+\column@=\count118
+\maxfields@=\count119
+\andhelp@=\toks19
+\eqnshift@=\dimen120
+\alignsep@=\dimen121
+\tagshift@=\dimen122
+\tagwidth@=\dimen123
+\totwidth@=\dimen124
+\lineht@=\dimen125
+\@envbody=\toks20
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+) (C:\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+(C:\CTEX\MiKTeX\tex\latex\psnfss\mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup6
+\symitalic=\mathgroup7
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+))
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+(C:\CTEX\MiKTeX\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip46
+\subfigcapskip=\skip47
+\subfigcaptopadj=\dimen126
+\subfigbottomskip=\skip48
+\subfigcapmargin=\dimen127
+\subfiglabelskip=\skip49
+\c@subfigure=\count120
+\c@lofdepth=\count121
+\c@subtable=\count122
+\c@lotdepth=\count123
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\CTEX\MiKTeX\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip50
+\subfig@bottom=\skip51
+)
+(C:\CTEX\MiKTeX\tex\latex\float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count124
+\float@exts=\toks22
+\float@box=\box31
+\@float@everytoks=\toks23
+\@floatcapt=\box32
+)
+(C:\CTEX\MiKTeX\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip52
+\bibsep=\skip53
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count125
+)
+(C:\CTEX\MiKTeX\tex\latex\hyperref\hyperref.sty
+Package: hyperref 2012/02/06 v6.82o Hypertext links for LaTeX
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\hobsub-hyperref.sty
+Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\hobsub-generic.sty
+Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
+Package: bigintcalc 2011/01/30 v1.2 Expandable big integer calculations (HO)
+Package: bitset 2011/01/30 v1.1 Data type bit set (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provides unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
+)
+(C:\CTEX\MiKTeX\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\@linkdim=\dimen128
+\Hy@linkcounter=\count126
+\Hy@pagecounter=\count127
+
+(C:\CTEX\MiKTeX\tex\latex\hyperref\pd1enc.def
+File: pd1enc.def 2012/02/06 v6.82o Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count128
+
+(C:\CTEX\MiKTeX\tex\latex\00miktex\hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 3925.
+Package hyperref Info: Hyper figures OFF on input line 4046.
+Package hyperref Info: Link nesting OFF on input line 4051.
+Package hyperref Info: Hyper index ON on input line 4054.
+Package hyperref Info: Plain pages OFF on input line 4061.
+Package hyperref Info: Backreferencing OFF on input line 4066.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4284.
+\c@Hy@tempcnt=\count129
+
+(C:\CTEX\MiKTeX\tex\latex\ltxmisc\url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4637.
+\Fld@menulength=\count130
+\Field@Width=\dimen129
+\Fld@charsize=\dimen130
+Package hyperref Info: Hyper figures OFF on input line 5757.
+Package hyperref Info: Link nesting OFF on input line 5762.
+Package hyperref Info: Hyper index ON on input line 5765.
+Package hyperref Info: backreferencing OFF on input line 5772.
+Package hyperref Info: Link coloring ON on input line 5775.
+Package hyperref Info: Link coloring with OCG OFF on input line 5782.
+Package hyperref Info: PDF/A mode OFF on input line 5787.
+LaTeX Info: Redefining \ref on input line 5827.
+LaTeX Info: Redefining \pageref on input line 5831.
+\Hy@abspage=\count131
+\c@Item=\count132
+\c@Hfootnote=\count133
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+(C:\CTEX\MiKTeX\tex\latex\hyperref\hpdftex.def
+File: hpdftex.def 2012/02/06 v6.82o Hyperref driver for pdfTeX
+\Fld@listcount=\count134
+\c@bookmark@seq@number=\count135
+
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip54
+)
+(G:\Github\PVO_ctex\JRTIP\tex\svjourn3-epjc.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 14.
+
+(C:\CTEX\MiKTeX\tex\latex\psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+Unknown journal: specify \journalname{<name of your journal>} in preambel
+
+(C:\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count136
+\scratchdimen=\dimen131
+\scratchbox=\box33
+\nofMPsegments=\count137
+\nofMParguments=\count138
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count139
+\MPscratchDim=\dimen132
+\MPnumerator=\count140
+\makeMPintoPDFobject=\count141
+\everyMPtoPDFconversion=\toks25
+)
+\AtBeginShipoutBox=\box34
+ (C:\CTEX\MiKTeX\tex\latex\graphics\color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(C:\CTEX\MiKTeX\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+Package hyperref Info: Link coloring ON on input line 14.
+
+(C:\CTEX\MiKTeX\tex\latex\hyperref\nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count142
+)
+LaTeX Info: Redefining \ref on input line 14.
+LaTeX Info: Redefining \pageref on input line 14.
+LaTeX Info: Redefining \nameref on input line 14.
+
+(G:\Github\PVO_ctex\JRTIP\tex\svjourn3-epjc.out)
+(G:\Github\PVO_ctex\JRTIP\tex\svjourn3-epjc.out)
+\@outlinefile=\write3
+
+SVJour3 warning: Missing \journalname
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 43.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <16> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 43.
+LaTeX Font Info:    Calculating math sizes for size <16> on input line 43.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 43
+.
+(C:\CTEX\MiKTeX\tex\latex\psnfss\ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 43
+.
+
+(C:\CTEX\MiKTeX\tex\latex\psnfss\omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 43
+.
+
+(C:\CTEX\MiKTeX\tex\latex\psnfss\omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 43
+.
+
+(C:\CTEX\MiKTeX\tex\latex\psnfss\omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 43.
+
+(C:\CTEX\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11.84009> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9.6001> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+LaTeX Font Info:    Calculating math sizes for size <11.84009> on input line 43
+.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.76172> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.10411> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 43.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.29004> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.10005> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+LaTeX Font Info:    Calculating math sizes for size <6.29004> on input line 43.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <4.65466> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <3.77405> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+
+
+Package mathptmx Warning: There are no bold math fonts on input line 49.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{C:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}
+
+
+]
+Overfull \hbox (4.96379pt too wide) in paragraph at lines 82--83
+\T1/ptm/m/n/10 the rough ones are un-mod-i-fied. The ex-per-i-men-tal re-sult-s
+ show
+ []
+
+<./figures/PVO_Lena_3x3.png, id=120, 1126.2075pt x 605.26125pt>
+File: ./figures/PVO_Lena_3x3.png Graphic file (type png)
+
+<use ./figures/PVO_Lena_3x3.png>
+Package pdftex.def Info: ./figures/PVO_Lena_3x3.png used on input line 113.
+(pdftex.def)             Requested size: 197.99698pt x 106.40254pt.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8.5> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 114.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][]
+ []
+
+[2 <G:/Github/PVO_ctex/JRTIP/tex/figures/PVO_Lena_3x3.png>]
+<./figures/IPVO_Lena_3x3.png, id=147, 1206.00563pt x 612.78937pt>
+File: ./figures/IPVO_Lena_3x3.png Graphic file (type png)
+
+<use ./figures/IPVO_Lena_3x3.png>
+Package pdftex.def Info: ./figures/IPVO_Lena_3x3.png used on input line 164.
+(pdftex.def)             Requested size: 197.99698pt x 100.60095pt.
+
+Overfull \hbox (2.96344pt too wide) in paragraph at lines 197--198
+\T1/ptm/m/n/10 traight-for-ward. No-tice that in the o-rig-i-nal PVO-based meth
+od
+ []
+
+[3 <G:/Github/PVO_ctex/JRTIP/tex/figures/IPVO_Lena_3x3.png>]
+<./figures/correlation_Lena.pdf, id=177, 323.2075pt x 276.03125pt>
+File: ./figures/correlation_Lena.pdf Graphic file (type pdf)
+
+<use ./figures/correlation_Lena.pdf>
+Package pdftex.def Info: ./figures/correlation_Lena.pdf used on input line 208.
+
+(pdftex.def)             Requested size: 148.50151pt x 126.82428pt.
+
+<./figures/correlation_Baboon.pdf, id=178, 317.185pt x 276.03125pt>
+File: ./figures/correlation_Baboon.pdf Graphic file (type pdf)
+
+<use ./figures/correlation_Baboon.pdf>
+Package pdftex.def Info: ./figures/correlation_Baboon.pdf used on input line 21
+4.
+(pdftex.def)             Requested size: 148.50151pt x 129.23769pt.
+
+<./figures/correlation_Airplane.pdf, id=179, 322.20375pt x 274.02374pt>
+File: ./figures/correlation_Airplane.pdf Graphic file (type pdf)
+
+<use ./figures/correlation_Airplane.pdf>
+Package pdftex.def Info: ./figures/correlation_Airplane.pdf used on input line 
+220.
+(pdftex.def)             Requested size: 148.50151pt x 126.29913pt.
+
+Overfull \hbox (3.28304pt too wide) in paragraph at lines 226--227
+\T1/ptm/m/n/10 block s-e-lec-tion s-trat-e-gy to s-e-lec-t s-mooth block-s for 
+his-togram
+ []
+
+<./figures/NL.pdf, id=184, 253.66469pt x 247.55275pt>
+File: ./figures/NL.pdf Graphic file (type pdf)
+ <use ./figures/NL.pdf>
+Package pdftex.def Info: ./figures/NL.pdf used on input line 230.
+(pdftex.def)             Requested size: 123.75pt x 120.76552pt.
+
+<./figures/proposed.png, id=190, 690.32906pt x 612.78937pt>
+File: ./figures/proposed.png Graphic file (type png)
+
+<use ./figures/proposed.png>
+Package pdftex.def Info: ./figures/proposed.png used on input line 248.
+(pdftex.def)             Requested size: 173.25302pt x 153.79538pt.
+
+<./figures/proposed2.png, id=191, 685.8122pt x 612.78937pt>
+File: ./figures/proposed2.png Graphic file (type png)
+
+<use ./figures/proposed2.png>
+Package pdftex.def Info: ./figures/proposed2.png used on input line 255.
+(pdftex.def)             Requested size: 173.25302pt x 154.80524pt.
+
+<./figures/proposed_histogram.png, id=192, 567.62062pt x 502.12593pt>
+File: ./figures/proposed_histogram.png Graphic file (type png)
+
+<use ./figures/proposed_histogram.png>
+Package pdftex.def Info: ./figures/proposed_histogram.png used on input line 26
+2.
+(pdftex.def)             Requested size: 158.40363pt x 140.12692pt.
+
+<./figures/proposed_histogram2.png, id=193, 567.62062pt x 502.12593pt>
+File: ./figures/proposed_histogram2.png Graphic file (type png)
+
+<use ./figures/proposed_histogram2.png>
+Package pdftex.def Info: ./figures/proposed_histogram2.png used on input line 2
+69.
+(pdftex.def)             Requested size: 158.40363pt x 140.12692pt.
+
+Underfull \vbox (badness 2426) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][]
+ []
+
+[4 <G:/Github/PVO_ctex/JRTIP/tex/figures/NL.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <G:/Github/PVO_ctex/JRTIP/tex/figures/correlation_Lena.pdf> <G:/Github/PVO_
+ctex/JRTIP/tex/figures/correlation_Baboon.pdf> <G:/Github/PVO_ctex/JRTIP/tex/fi
+gures/correlation_Airplane.pdf> <G:/Github/PVO_ctex/JRTIP/tex/figures/proposed.
+png> <G:/Github/PVO_ctex/JRTIP/tex/figures/proposed2.png> <G:/Github/PVO_ctex/J
+RTIP/tex/figures/proposed_histogram.png> <G:/Github/PVO_ctex/JRTIP/tex/figures/
+proposed_histogram2.png>]
+Overfull \hbox (1.404pt too wide) in paragraph at lines 288--289
+\T1/ptm/m/n/10 ages in-clud-ing Lena, Ba-boon, Air-plane, Bar-bara, Lake, Boat,
+
+ []
+
+<./figures/experiment_mapping.png, id=368, 2999.205pt x 1221.81468pt>
+File: ./figures/experiment_mapping.png Graphic file (type png)
+
+<use ./figures/experiment_mapping.png>
+Package pdftex.def Info: ./figures/experiment_mapping.png used on input line 31
+5.
+(pdftex.def)             Requested size: 495.0pt x 201.64665pt.
+
+<./figures/Lena.pdf, id=369, 469.755pt x 355.3275pt>
+File: ./figures/Lena.pdf Graphic file (type pdf)
+ <use ./figures/Lena.pdf>
+Package pdftex.def Info: ./figures/Lena.pdf used on input line 350.
+(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
+
+<./figures/Baboon.pdf, id=370, 469.755pt x 355.3275pt>
+File: ./figures/Baboon.pdf Graphic file (type pdf)
+
+<use ./figures/Baboon.pdf>
+Package pdftex.def Info: ./figures/Baboon.pdf used on input line 356.
+(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
+
+<./figures/Airplane.pdf, id=371, 469.755pt x 355.3275pt>
+File: ./figures/Airplane.pdf Graphic file (type pdf)
+
+<use ./figures/Airplane.pdf>
+Package pdftex.def Info: ./figures/Airplane.pdf used on input line 363.
+(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
+
+<./figures/Barbara.pdf, id=372, 469.755pt x 355.3275pt>
+File: ./figures/Barbara.pdf Graphic file (type pdf)
+
+<use ./figures/Barbara.pdf>
+Package pdftex.def Info: ./figures/Barbara.pdf used on input line 369.
+(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
+
+<./figures/Lake.pdf, id=373, 469.755pt x 355.3275pt>
+File: ./figures/Lake.pdf Graphic file (type pdf)
+ <use ./figures/Lake.pdf>
+Package pdftex.def Info: ./figures/Lake.pdf used on input line 376.
+(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
+
+<./figures/Boat.pdf, id=374, 469.755pt x 355.3275pt>
+File: ./figures/Boat.pdf Graphic file (type pdf)
+ <use ./figures/Boat.pdf>
+Package pdftex.def Info: ./figures/Boat.pdf used on input line 382.
+(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
+
+<./figures/Peppers.pdf, id=375, 469.755pt x 355.3275pt>
+File: ./figures/Peppers.pdf Graphic file (type pdf)
+
+<use ./figures/Peppers.pdf>
+Package pdftex.def Info: ./figures/Peppers.pdf used on input line 389.
+(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
+
+<./figures/Elaine.pdf, id=376, 469.755pt x 355.3275pt>
+File: ./figures/Elaine.pdf Graphic file (type pdf)
+
+<use ./figures/Elaine.pdf>
+Package pdftex.def Info: ./figures/Elaine.pdf used on input line 395.
+(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
+
+
+LaTeX Warning: Float too large for page by 22.06749pt on input line 400.
+
+
+Overfull \hbox (0.11404pt too wide) in paragraph at lines 456--457
+\T1/ptm/m/n/10 s, un-like pre-vi-ous PVO-based work-s [[]--[]], the prediction-
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][]
+ []
+
+[6]
+Underfull \hbox (badness 1168) in paragraph at lines 494--496
+[]\T1/ptm/m/n/10 Hong, W.: Adap-tive re-versible da-ta hid-ing method
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 502--504
+\T1/ptm/m/n/10 difference-histogram mod-i-fi-ca-tion. IEEE Tran-s. In-f.
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <G:/Github/PVO_ctex/JRTIP/tex/figures/experiment_mapping.png>]
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][]
+ []
+
+[8 <G:/Github/PVO_ctex/JRTIP/tex/figures/Lena.pdf> <G:/Github/PVO_ctex/JRTIP/te
+x/figures/Baboon.pdf> <G:/Github/PVO_ctex/JRTIP/tex/figures/Airplane.pdf> <G:/G
+ithub/PVO_ctex/JRTIP/tex/figures/Barbara.pdf> <G:/Github/PVO_ctex/JRTIP/tex/fig
+ures/Lake.pdf> <G:/Github/PVO_ctex/JRTIP/tex/figures/Boat.pdf> <G:/Github/PVO_c
+tex/JRTIP/tex/figures/Peppers.pdf> <G:/Github/PVO_ctex/JRTIP/tex/figures/Elaine
+.pdf>]
+Underfull \hbox (badness 4899) in paragraph at lines 554--556
+[]\T1/ptm/m/n/10 Jung, K.H.: High-capacity re-versible da-ta hid-ing
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 566--568
+\T1/ptm/m/n/10 error ex-pan-sion. Sig-nal Pro-cess.: Im-age Com-mun.
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 582--584
+[]\T1/ptm/m/n/10 He, W., X-iong, G., Weng, S., Cai, Z., Wang, Y.:
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 612.
+[9]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 612.
+ (G:\Github\PVO_ctex\JRTIP\tex\svjourn3-epjc.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 612.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 612.
+Package rerunfilecheck Info: File `svjourn3-epjc.out' has not changed.
+(rerunfilecheck)             Checksum: 07DF2230EC581B578950B7056E9B0156;249.
+ ) 
+Here is how much of TeX's memory you used:
+ 7255 strings out of 495354
+ 103080 string characters out of 3183859
+ 210631 words of memory out of 3000000
+ 10162 multiletter control sequences out of 15000+200000
+ 85334 words of font info for 166 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 42i,11n,34p,1977b,485s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{addr2} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{addr1} has been referenced but does not exist, repl
+aced by a fixed one
+
+{C:/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<C:/CTEX/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmex10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi1
+0.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/CTEX/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/am
+sfonts/symbols/msbm10.pfb><C:/CTEX/MiKTeX/fonts/type1/hoekwater/rsfs/rsfs10.pfb
+><C:/CTEX/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/CTEX/MiKTeX/fonts/type1/ur
+w/symbol/usyr.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/CTEX/MiK
+TeX/fonts/type1/urw/times/utmr8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmr
+i8a.pfb>
+Output written on svjourn3-epjc.pdf (9 pages, 1615509 bytes).
+PDF statistics:
+ 544 PDF objects out of 1000 (max. 8388607)
+ 101 named destinations out of 1000 (max. 500000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
+
