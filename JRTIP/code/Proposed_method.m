@@ -14,7 +14,8 @@ Imgs = {'Lena', 'Baboon', 'Airplane', 'Lake', 'Peppers', 'Boat', 'Barbara', 'Ela
 % kend      12  bits
 % LM        12  bits
 % In total: 36  bits
-edge_info = 36;
+% Optimal Map Index : 11 bits
+edge_info = 36 + 11;
 maps = {};
 map = cell(3);
 mapECs = {};
