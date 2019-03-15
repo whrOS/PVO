@@ -1,4 +1,4 @@
-tic
+% tic
 % clear all;
 clc
 
@@ -9,7 +9,7 @@ addpath(genpath('result'));
 Imgs = {'Lena', 'Baboon', 'Airplane', 'Lake', 'Peppers', 'Boat', 'Barbara', 'Elaine'};
 
 %%
-% n1xn2      4  bits
+% n1 x n2    4  bits
 % T          8  bits
 % kend      12  bits
 % LM        12  bits
@@ -21,11 +21,14 @@ map = cell(3);
 mapECs = {};
 mapEDs = {};
 
+tic;
 [mapEDs, mapECs, maps] = getOneMap(mapEDs, mapECs, maps,map,[0,0]);
 mapNum = numel(maps);
+toc;
 
 %%
-for tt = 1:8
+for tt = 6:7
+    ts = zeros(2,1);
     Iname = Imgs{tt};
     
     istr = ['Proposed_2019_',Iname,'.mat']
@@ -33,17 +36,20 @@ for tt = 1:8
     [A, B] = size(I);
     %%
     S = zeros(8,100);
-    for payload = 5000 + edge_info : 1000 : 100000 + edge_info
+    for payload = 5000 + edge_info : 5000 : 100000 + edge_info
+        tic;
         payload - edge_info
         Tmax = 500;
         R = zeros(8,1);
         rc = 1;
+%         tic;
         for a = 2:5
             for b = 2:5
                 Hs = cell(1,Tmax); % T = 0 - Tmax
                 for i = 1:Tmax
                     Hs{i} = zeros(512);
                 end
+%                 tic;
                 NL = zeros(floor((A-2)/a),floor((B-2)/b));
                 for i = 1:floor((A-2)/a)
                     for j = 1:floor((B-2)/b)
@@ -82,20 +88,27 @@ for tt = 1:8
                     end
                 end
                 
+%                 toc;tic;
                 for i = 2:Tmax
                     Hs{i} = Hs{i} + Hs{i-1};
                 end
-                
+%                 toc;                tic;
                 ec0 = zeros(1,Tmax);
                 ed0 = zeros(1,Tmax);
                 optMapEC = zeros(512,512); optMapEC(256:256+1,:) = 1;  optMapEC(:,256-1:256) = 1;  optMapEC(256-2:256+3,256-3:256+2) = 0;
                 optMapED = ones(512,512)*2;optMapED(256:256+1,:) = 3/2;optMapED(:,256-1:256) = 3/2;optMapED(256-2:256+3,256-3:256+2) = 0;
                 for T = 1:Tmax
-                    ec0(T) = sum(sum(Hs{T} .* optMapEC));
-                    ed0(T) = sum(sum(Hs{T} .* optMapED));
+                    tmp = (Hs{T} .* optMapEC);
+                    ec0(T) = sum(tmp(:));
+                    tmp = (Hs{T} .* optMapED);
+                    ed0(T) = sum(tmp(:));
+%                     ec0(T) = sum(sum(Hs{T} .* optMapEC));
+%                     ed0(T) = sum(sum(Hs{T} .* optMapED));
                 end
+%                 toc;
                 
                 %%
+%                 tic;
                 optMapEC = zeros(6,6);
                 optMapED = zeros(6,6);
                 for m = 1 : mapNum
@@ -117,8 +130,10 @@ for tt = 1:8
                         end
                     end
                 end
+%                 toc;
             end
         end
+%         toc;
         if sum(R) == 0
             break;
         end
@@ -200,8 +215,12 @@ for tt = 1:8
         m_index = (payload-edge_info-5000)/1000 + 1;
         R(3,idx) = 10*log10(A*B*255^2 / optED);
         S(:,m_index) = R(:,idx);
+    tim = toc;
+    ts = [ts,[payload,tim]'];
     end
     S = S(:,1:m_index);
     res = [S(1,:);S(3:end,:)];
-        save(istr, 'res');
+%         save(istr, 'res');
+    istim = ['Time_',Iname,'.mat'];
+  save(istim, 'ts');
 end

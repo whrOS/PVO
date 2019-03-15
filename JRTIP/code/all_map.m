@@ -8,6 +8,7 @@ EDs = {};
 
 [EDs, ECs, maps] = getOneMap(EDs, ECs, maps,map,[0,0]);
 
+% 测试有没有重复映射
 equalIndex = {};
 
 for i = 1:1996

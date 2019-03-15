@@ -1,0 +1,72 @@
+Ref.: Ms. No. RTIP-D-18-00402
+Improved reversible data hiding based on PVO and adaptive pairwise embedding
+Journal of Real-Time Image Processing
+
+Dear Prof. Zhao,
+
+Your manuscript has been reviewed and the reviewers' comments are attached below for your information.
+
+The reviewers suggest a major revision is necessary before the manuscript can be considered for publication in 
+Journal of Real-Time Image Processing. If you wish to revise your manuscript as per the reviewers' comments, we should receive your revised manuscript by 21 Feb 2019. In addition to the revised manuscript, please provide a separate document outlining point-by-point responses to their comments. 
+
+Instructions for resubmitting your manuscript together with your responses are provided below. To submit a revision, go to https://www.editorialmanager.com/rtip/ and log in as an Author. You will see a menu item call Submission Needing Revision. You will find your submission record there. 
+
+Thank you for submitting your work to RTIP and we look forward to receiving your revised manuscript.
+
+
+Yours sincerely
+
+Kanishkaa Sridhar
+JEO Assistant
+Journal of Real-Time Image Processing
+
+Reviewers' comments:
+
+Reviewer #1: In this paper, an adaptive PVO-based RDH method is proposed. By joining the prediction-errors for the largest and smallest pixel values of each block as a pair, a 2D histogram is generated and the 2D mapping is adaptively determined by searching for the optimal one. The idea is new and easy to be understood. I think a minor revision can be made before its publication.
+
+1) For adaptively searching of the optimal mapping, the parameter K is preset as 2 here, maybe you can give more specific data to illustrate for choosing region [0,2]б┴[0,2] for optimization .
+
+2) Some typo errors should be corrected with carefully proofreading. Such as: "with the same block sizes" -> " with the same block size", "this improeved" -> " this improved ", "can get respectively an increase of PSNR бн"->"can respectively get an increase of PSNR бн", "more than one pixels" ->"more than one pixel".
+
+
+
+Reviewer #2: Relating to the review of this paper, some parts are unclear. Please correct and supplement the following points:
+
+1.	This method has to use the methods described in [10] and [29] in the references, but the methods were not explained in the related works.
+2.	In this manuscript, to calculate the block complexity the difference between the vertical and horizontal differences of two adjacent pixels has been used. Please explain why this method was used. Is it the best choice? Why and why not?
+3.	It might happen that overflow and underflow issue occurs during the process of data embedding. But no discussion in the problem is presented. Please explain how to solve this problem if it occurs, and mark the additional information. 
+4.	How much memory is needed in this method to record the optimized table and different parameters?
+5.	How to design an optimal 2D mapping for each test image? Please elaborate on the rules and procedures and list all combinations of experiments.
+6.	How long does it take to create an optimal 2D mapping? For a new image, how much time will it take to get the optimal 2D mapping of the image? Please compare and analyze the operation time of other methods as well.
+7.	In Table 3 and Table 4, whether it compares with the best result of the comparison items, please describe the parameters of the comparison.
+8.	The (a) and (b) diagrams in Fig5 is not clearly indicated. Please indicate the direction of b=0 and b=1. There are errors in the position (1, -2). Please correct them.
+
+
+
+Reviewer #3: (1) When compared wit other PVO-like schemes (see Tables 3 and 4). it is observed that the improvement is limited (note: the improvement is only 0.5 dB as compare with Ou et al.'s scheme).
+(2) To enhance the limited contribution, a theoretical analysis and proof that the proposed scheme is better than previous schemes should be given.
+
+
+Reviewer #4: This paper presents that In the process of Pixel-value-ordering (PVO) based reversible data scheme, the modification for the two prediction-errors is independent without exploiting the correlation between them, even they are closely correlated. In light of this, an improved PVO-based RDH method is proposed in this paper. The two prediction-errors of each block is considered as a pair, and the pairs are modified for data embedding based on adaptive two-dimensional histogram modification. The performance of proposed method is verified better than the original PVO-based method. Nevertheless, we still have some questions as follows:
+
+1: This paper proposed to utilize the correlation between the Max and Min prediction-errors in each block for reversible data hiding. However, the experimental results demonstrate that the proposed method promote the data embedding performance less, where, the PSNR gains few improvement compared with the traditional schemes. So, is the computation cost affordable to obtain so small data embedding capacity improvement?
+
+2: the paper proposed to modify the generated 2D histogram for data embedding, the method employed in this scheme should be discussed more deeply, it would be better to give an example.
+
+3: In the proposed reversible data embedding, how to achieve an optimal data embedding coefficients, that is, how to determine the coefficients such as n1,n2 and T in the process data embedding? 
+
+4: In Fig.5 (b) , 8 pixels pairs are employed for reversible data embedding, are the data embedded in 8-ary form? Does method decrease the data embedding capacity? Or, as the object pixel pairs would be changed much, does this method bring more image distortion? 
+
+5: the run-time efficiency of the proposed scheme is preferred to be discussed in this paper, as the Journal is about the real-time image processing.
+
+
+
+
+********
+
+
+Recipients of this email are registered users within the Editorial Manager database for this journal. We will keep your information on file to use in the process of submitting, evaluating and publishing a manuscript. For more information on how we use your personal details please see our privacy policy at https://www.springernature.com/production-privacy-policy. If you no longer wish to receive messages from this journal or you have questions regarding database management, please email our publication office, stating the journal name(s) and your email address(es):
+PublicationOfficeSPS@springernature.com
+
+__________________________________________________
+In compliance with data protection regulations, please contact the publication office if you would like to have your personal information removed from the database.

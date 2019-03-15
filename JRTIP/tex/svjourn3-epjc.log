@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2018.10.7)  29 OCT 2018 10:42
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2018.11.16)  15 MAR 2019 15:42
 entering extended mode
-**G:/Github/PVO_ctex/JRTIP/tex/svjourn3-epjc.tex
-(G:/Github/PVO_ctex/JRTIP/tex/svjourn3-epjc.tex
+**svjourn3-epjc.tex
+(D:\GitHub\PVO\JRTIP\tex\svjourn3-epjc.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
-(G:\Github\PVO_ctex\JRTIP\tex\svjour3.cls
+(D:\GitHub\PVO\JRTIP\tex\svjour3.cls
 Document Class: svjour3 2010/11/25 v3.3 
 LaTeX document class for Springer journals
 (C:\CTEX\MiKTeX\tex\latex\base\fleqn.clo
@@ -15,7 +15,7 @@ File: fleqn.clo 1998/08/17 v1.1c Standard LaTeX option (flush left equations)
 Class Springer-SVJour3 Warning: Specified option or subpackage "pdftex" not fou
 nd - on input line 127.
 
-(G:\Github\PVO_ctex\JRTIP\tex\svepjc3.clo
+(D:\GitHub\PVO\JRTIP\tex\svepjc3.clo
 File: svepjc3.clo 2011/08/26 v1.2 style option for the EPJC journal
 
 SVJour Class option: svepjc3.clo for EPJC journal
@@ -23,7 +23,7 @@ SVJour Class option: svepjc3.clo for EPJC journal
 Class Springer-SVJour3 Info: extra/valid Springer sub-package (-> *.clo) 
 (Springer-SVJour3)           not found in option list of \documentclass
 (Springer-SVJour3)           - autoactivating "global" style.
- (G:\Github\PVO_ctex\JRTIP\tex\svglov3.clo
+ (D:\GitHub\PVO\JRTIP\tex\svglov3.clo
 File: svglov3.clo 2009/12/18 v3.2 style option for standardised journals
 
 SVJour Class option: svglov3.clo for standardised journals
@@ -84,7 +84,7 @@ LaTeX Font Info:    Redeclaring math symbol \Omega on input line 157.
 \figgap=\dimen113
 \bibindent=\dimen114
 \@tempcntc=\count104
-) (G:\Github\PVO_ctex\JRTIP\tex\svepjc3.clo
+) (D:\GitHub\PVO\JRTIP\tex\svepjc3.clo
 \c@thanks=\count105
 \c@addressref=\count106
 )
@@ -306,12 +306,42 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks23
 \@floatcapt=\box32
 )
+(C:\CTEX\MiKTeX\tex\latex\multirow\multirow.sty
+\bigstrutjot=\dimen128
+)
+(C:\CTEX\MiKTeX\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen129
+\lightrulewidth=\dimen130
+\cmidrulewidth=\dimen131
+\belowrulesep=\dimen132
+\belowbottomsep=\dimen133
+\aboverulesep=\dimen134
+\abovetopsep=\dimen135
+\cmidrulesep=\dimen136
+\cmidrulekern=\dimen137
+\defaultaddspace=\dimen138
+\@cmidla=\count125
+\@cmidlb=\count126
+\@aboverulesep=\dimen139
+\@belowrulesep=\dimen140
+\@thisruleclass=\count127
+\@lastruleclass=\count128
+\@thisrulewidth=\dimen141
+)
+(C:\CTEX\MiKTeX\tex\latex\bbm\bbm.sty
+Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
+LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
+(Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
+(Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
+)
 (C:\CTEX\MiKTeX\tex\latex\natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip52
 \bibsep=\skip53
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count125
+\c@NAT@ctr=\count129
 )
 (C:\CTEX\MiKTeX\tex\latex\hyperref\hyperref.sty
 Package: hyperref 2012/02/06 v6.82o Hypertext links for LaTeX
@@ -350,14 +380,14 @@ Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
 (C:\CTEX\MiKTeX\tex\generic\ifxetex\ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\@linkdim=\dimen128
-\Hy@linkcounter=\count126
-\Hy@pagecounter=\count127
+\@linkdim=\dimen142
+\Hy@linkcounter=\count130
+\Hy@pagecounter=\count131
 
 (C:\CTEX\MiKTeX\tex\latex\hyperref\pd1enc.def
 File: pd1enc.def 2012/02/06 v6.82o Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count128
+\Hy@SavedSpaceFactor=\count132
 
 (C:\CTEX\MiKTeX\tex\latex\00miktex\hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -370,16 +400,16 @@ Package hyperref Info: Plain pages OFF on input line 4061.
 Package hyperref Info: Backreferencing OFF on input line 4066.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4284.
-\c@Hy@tempcnt=\count129
+\c@Hy@tempcnt=\count133
 
 (C:\CTEX\MiKTeX\tex\latex\ltxmisc\url.sty
 \Urlmuskip=\muskip11
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4637.
-\Fld@menulength=\count130
-\Field@Width=\dimen129
-\Fld@charsize=\dimen130
+\Fld@menulength=\count134
+\Field@Width=\dimen143
+\Fld@charsize=\dimen144
 Package hyperref Info: Hyper figures OFF on input line 5757.
 Package hyperref Info: Link nesting OFF on input line 5762.
 Package hyperref Info: Hyper index ON on input line 5765.
@@ -389,17 +419,17 @@ Package hyperref Info: Link coloring with OCG OFF on input line 5782.
 Package hyperref Info: PDF/A mode OFF on input line 5787.
 LaTeX Info: Redefining \ref on input line 5827.
 LaTeX Info: Redefining \pageref on input line 5831.
-\Hy@abspage=\count131
-\c@Item=\count132
-\c@Hfootnote=\count133
+\Hy@abspage=\count135
+\c@Item=\count136
+\c@Hfootnote=\count137
 )
 
 Package hyperref Message: Driver: hpdftex.
 
 (C:\CTEX\MiKTeX\tex\latex\hyperref\hpdftex.def
 File: hpdftex.def 2012/02/06 v6.82o Hyperref driver for pdfTeX
-\Fld@listcount=\count134
-\c@bookmark@seq@number=\count135
+\Fld@listcount=\count138
+\c@bookmark@seq@number=\count139
 
 (C:\CTEX\MiKTeX\tex\latex\oberdiek\rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
@@ -408,7 +438,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip54
 )
-(G:\Github\PVO_ctex\JRTIP\tex\svjourn3-epjc.aux)
+(D:\GitHub\PVO\JRTIP\tex\svjourn3-epjc.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
@@ -432,16 +462,16 @@ Unknown journal: specify \journalname{<name of your journal>} in preambel
 
 (C:\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count136
-\scratchdimen=\dimen131
+\scratchcounter=\count140
+\scratchdimen=\dimen145
 \scratchbox=\box33
-\nofMPsegments=\count137
-\nofMParguments=\count138
+\nofMPsegments=\count141
+\nofMParguments=\count142
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count139
-\MPscratchDim=\dimen132
-\MPnumerator=\count140
-\makeMPintoPDFobject=\count141
+\MPscratchCnt=\count143
+\MPscratchDim=\dimen146
+\MPnumerator=\count144
+\makeMPintoPDFobject=\count145
 \everyMPtoPDFconversion=\toks25
 )
 \AtBeginShipoutBox=\box34
@@ -461,84 +491,84 @@ Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 (C:\CTEX\MiKTeX\tex\generic\oberdiek\gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count142
+\c@section@level=\count146
 )
 LaTeX Info: Redefining \ref on input line 14.
 LaTeX Info: Redefining \pageref on input line 14.
 LaTeX Info: Redefining \nameref on input line 14.
 
-(G:\Github\PVO_ctex\JRTIP\tex\svjourn3-epjc.out)
-(G:\Github\PVO_ctex\JRTIP\tex\svjourn3-epjc.out)
+(D:\GitHub\PVO\JRTIP\tex\svjourn3-epjc.out)
+(D:\GitHub\PVO\JRTIP\tex\svjourn3-epjc.out)
 \@outlinefile=\write3
 
 SVJour3 warning: Missing \journalname
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 43.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <16> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 43.
-LaTeX Font Info:    Calculating math sizes for size <16> on input line 43.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 43
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 54.
+LaTeX Font Info:    Calculating math sizes for size <16> on input line 54.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 54
 .
 (C:\CTEX\MiKTeX\tex\latex\psnfss\ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 43
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 54
 .
 
 (C:\CTEX\MiKTeX\tex\latex\psnfss\omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 43
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 54
 .
 
 (C:\CTEX\MiKTeX\tex\latex\psnfss\omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 43
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 54
 .
 
 (C:\CTEX\MiKTeX\tex\latex\psnfss\omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 43.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 54.
 
 (C:\CTEX\MiKTeX\tex\latex\psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11.84009> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9.6001> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
-LaTeX Font Info:    Calculating math sizes for size <11.84009> on input line 43
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
+LaTeX Font Info:    Calculating math sizes for size <11.84009> on input line 54
 .
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.76172> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.10411> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
-LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 43.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
+LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 54.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.29004> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.10005> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
-LaTeX Font Info:    Calculating math sizes for size <6.29004> on input line 43.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
+LaTeX Font Info:    Calculating math sizes for size <6.29004> on input line 54.
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <4.65466> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <3.77405> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
 
 
-Package mathptmx Warning: There are no bold math fonts on input line 49.
+Package mathptmx Warning: There are no bold math fonts on input line 60.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -547,263 +577,259 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Overfull \hbox (4.96379pt too wide) in paragraph at lines 82--83
+Overfull \hbox (4.96379pt too wide) in paragraph at lines 104--105
 \T1/ptm/m/n/10 the rough ones are un-mod-i-fied. The ex-per-i-men-tal re-sult-s
  show
  []
 
-<./figures/PVO_Lena_3x3.png, id=120, 1126.2075pt x 605.26125pt>
-File: ./figures/PVO_Lena_3x3.png Graphic file (type png)
 
-<use ./figures/PVO_Lena_3x3.png>
-Package pdftex.def Info: ./figures/PVO_Lena_3x3.png used on input line 113.
+Overfull \hbox (1.44342pt too wide) in paragraph at lines 110--112
+\T1/ptm/m/n/10 H method [[]] and it-s im-prove-men-t [[]] are re-viewed. []More
+-
+ []
+
+<./PVO_Lena_3x3.png, id=125, 1126.2075pt x 605.26125pt>
+File: ./PVO_Lena_3x3.png Graphic file (type png)
+
+<use ./PVO_Lena_3x3.png>
+Package pdftex.def Info: ./PVO_Lena_3x3.png used on input line 136.
 (pdftex.def)             Requested size: 197.99698pt x 106.40254pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8.5> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 114.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 137.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 [][]
  []
 
-[2 <G:/Github/PVO_ctex/JRTIP/tex/figures/PVO_Lena_3x3.png>]
-<./figures/IPVO_Lena_3x3.png, id=147, 1206.00563pt x 612.78937pt>
-File: ./figures/IPVO_Lena_3x3.png Graphic file (type png)
+[2 <D:/GitHub/PVO/JRTIP/tex/PVO_Lena_3x3.png>]
+<./IPVO_Lena_3x3.png, id=152, 1206.00563pt x 612.78937pt>
+File: ./IPVO_Lena_3x3.png Graphic file (type png)
 
-<use ./figures/IPVO_Lena_3x3.png>
-Package pdftex.def Info: ./figures/IPVO_Lena_3x3.png used on input line 164.
+<use ./IPVO_Lena_3x3.png>
+Package pdftex.def Info: ./IPVO_Lena_3x3.png used on input line 187.
 (pdftex.def)             Requested size: 197.99698pt x 100.60095pt.
-
-Overfull \hbox (2.96344pt too wide) in paragraph at lines 197--198
+ [3 <D:/GitHub/PVO/JRTIP/tex/IPVO_Lena_3x3.png>]
+Overfull \hbox (2.96344pt too wide) in paragraph at lines 224--225
 \T1/ptm/m/n/10 traight-for-ward. No-tice that in the o-rig-i-nal PVO-based meth
 od
  []
 
-[3 <G:/Github/PVO_ctex/JRTIP/tex/figures/IPVO_Lena_3x3.png>]
-<./figures/correlation_Lena.pdf, id=177, 323.2075pt x 276.03125pt>
-File: ./figures/correlation_Lena.pdf Graphic file (type pdf)
+<./correlation_Lena.pdf, id=184, 323.2075pt x 276.03125pt>
+File: ./correlation_Lena.pdf Graphic file (type pdf)
 
-<use ./figures/correlation_Lena.pdf>
-Package pdftex.def Info: ./figures/correlation_Lena.pdf used on input line 208.
-
+<use ./correlation_Lena.pdf>
+Package pdftex.def Info: ./correlation_Lena.pdf used on input line 235.
 (pdftex.def)             Requested size: 148.50151pt x 126.82428pt.
 
-<./figures/correlation_Baboon.pdf, id=178, 317.185pt x 276.03125pt>
-File: ./figures/correlation_Baboon.pdf Graphic file (type pdf)
+<./correlation_Baboon.pdf, id=185, 317.185pt x 276.03125pt>
+File: ./correlation_Baboon.pdf Graphic file (type pdf)
 
-<use ./figures/correlation_Baboon.pdf>
-Package pdftex.def Info: ./figures/correlation_Baboon.pdf used on input line 21
-4.
+<use ./correlation_Baboon.pdf>
+Package pdftex.def Info: ./correlation_Baboon.pdf used on input line 241.
 (pdftex.def)             Requested size: 148.50151pt x 129.23769pt.
 
-<./figures/correlation_Airplane.pdf, id=179, 322.20375pt x 274.02374pt>
-File: ./figures/correlation_Airplane.pdf Graphic file (type pdf)
+<./correlation_Airplane.pdf, id=186, 322.20375pt x 274.02374pt>
+File: ./correlation_Airplane.pdf Graphic file (type pdf)
 
-<use ./figures/correlation_Airplane.pdf>
-Package pdftex.def Info: ./figures/correlation_Airplane.pdf used on input line 
-220.
+<use ./correlation_Airplane.pdf>
+Package pdftex.def Info: ./correlation_Airplane.pdf used on input line 247.
 (pdftex.def)             Requested size: 148.50151pt x 126.29913pt.
 
-Overfull \hbox (3.28304pt too wide) in paragraph at lines 226--227
+Overfull \hbox (3.28304pt too wide) in paragraph at lines 253--254
 \T1/ptm/m/n/10 block s-e-lec-tion s-trat-e-gy to s-e-lec-t s-mooth block-s for 
 his-togram
  []
 
-<./figures/NL.pdf, id=184, 253.66469pt x 247.55275pt>
-File: ./figures/NL.pdf Graphic file (type pdf)
- <use ./figures/NL.pdf>
-Package pdftex.def Info: ./figures/NL.pdf used on input line 230.
+<./NL.pdf, id=191, 253.66469pt x 247.55275pt>
+File: ./NL.pdf Graphic file (type pdf)
+ <use ./NL.pdf>
+Package pdftex.def Info: ./NL.pdf used on input line 257.
 (pdftex.def)             Requested size: 123.75pt x 120.76552pt.
 
-<./figures/proposed.png, id=190, 690.32906pt x 612.78937pt>
-File: ./figures/proposed.png Graphic file (type png)
+<./proposed.png, id=197, 54.6843pt x 48.6618pt>
+File: ./proposed.png Graphic file (type png)
+ <use ./proposed.png>
+Package pdftex.def Info: ./proposed.png used on input line 275.
+(pdftex.def)             Requested size: 222.74849pt x 198.2605pt.
 
-<use ./figures/proposed.png>
-Package pdftex.def Info: ./figures/proposed.png used on input line 248.
-(pdftex.def)             Requested size: 173.25302pt x 153.79538pt.
+<./proposed2.png, id=198, 54.56384pt x 48.60158pt>
+File: ./proposed2.png Graphic file (type png)
+ <use ./proposed2.png>
+Package pdftex.def Info: ./proposed2.png used on input line 282.
+(pdftex.def)             Requested size: 222.74849pt x 198.41261pt.
 
-<./figures/proposed2.png, id=191, 685.8122pt x 612.78937pt>
-File: ./figures/proposed2.png Graphic file (type png)
+<./proposed_histogram.png, id=199, 567.62062pt x 502.12593pt>
+File: ./proposed_histogram.png Graphic file (type png)
 
-<use ./figures/proposed2.png>
-Package pdftex.def Info: ./figures/proposed2.png used on input line 255.
-(pdftex.def)             Requested size: 173.25302pt x 154.80524pt.
+<use ./proposed_histogram.png>
+Package pdftex.def Info: ./proposed_histogram.png used on input line 289.
+(pdftex.def)             Requested size: 173.25302pt x 153.25928pt.
 
-<./figures/proposed_histogram.png, id=192, 567.62062pt x 502.12593pt>
-File: ./figures/proposed_histogram.png Graphic file (type png)
+<./proposed_histogram2.png, id=200, 567.62062pt x 502.12593pt>
+File: ./proposed_histogram2.png Graphic file (type png)
 
-<use ./figures/proposed_histogram.png>
-Package pdftex.def Info: ./figures/proposed_histogram.png used on input line 26
-2.
-(pdftex.def)             Requested size: 158.40363pt x 140.12692pt.
+<use ./proposed_histogram2.png>
+Package pdftex.def Info: ./proposed_histogram2.png used on input line 296.
+(pdftex.def)             Requested size: 173.25302pt x 153.25928pt.
 
-<./figures/proposed_histogram2.png, id=193, 567.62062pt x 502.12593pt>
-File: ./figures/proposed_histogram2.png Graphic file (type png)
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][]
+ []
 
-<use ./figures/proposed_histogram2.png>
-Package pdftex.def Info: ./figures/proposed_histogram2.png used on input line 2
-69.
-(pdftex.def)             Requested size: 158.40363pt x 140.12692pt.
+[4 <D:/GitHub/PVO/JRTIP/tex/NL.pdf>] [5 <D:/GitHub/PVO/JRTIP/tex/correlation_Le
+na.pdf> <D:/GitHub/PVO/JRTIP/tex/correlation_Baboon.pdf> <D:/GitHub/PVO/JRTIP/t
+ex/correlation_Airplane.pdf> <D:/GitHub/PVO/JRTIP/tex/proposed.png> <D:/GitHub/
+PVO/JRTIP/tex/proposed2.png> <D:/GitHub/PVO/JRTIP/tex/proposed_histogram.png> <
+D:/GitHub/PVO/JRTIP/tex/proposed_histogram2.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Underfull \vbox (badness 2426) has occurred while \output is active []
+
+Overfull \hbox (1.00356pt too wide) in paragraph at lines 326--330
+\T1/ptm/m/n/10 gray-scale bitmap im-ages in-clud-ing Lena, Ba-boon, Air-plane,
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 336.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 336.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 382.
+<./experiment_mapping.png, id=392, 2999.205pt x 1221.81468pt>
+File: ./experiment_mapping.png Graphic file (type png)
+
+<use ./experiment_mapping.png>
+Package pdftex.def Info: ./experiment_mapping.png used on input line 453.
+(pdftex.def)             Requested size: 495.0pt x 201.64665pt.
+ <./Lena.pdf, id=393, 469.755pt x 355.3275pt>
+File: ./Lena.pdf Graphic file (type pdf)
+
+<use ./Lena.pdf>
+Package pdftex.def Info: ./Lena.pdf used on input line 488.
+(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
+ <./Baboon.pdf, id=394, 469.755pt x 355.3275pt>
+File: ./Baboon.pdf Graphic file (type pdf)
+
+<use ./Baboon.pdf>
+Package pdftex.def Info: ./Baboon.pdf used on input line 494.
+(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
+ <./Airplane.pdf, id=395, 469.755pt x 355.3275pt>
+File: ./Airplane.pdf Graphic file (type pdf)
+
+<use ./Airplane.pdf>
+Package pdftex.def Info: ./Airplane.pdf used on input line 501.
+(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
+ <./Barbara.pdf, id=396, 469.755pt x 355.3275pt>
+File: ./Barbara.pdf Graphic file (type pdf)
+
+<use ./Barbara.pdf>
+Package pdftex.def Info: ./Barbara.pdf used on input line 507.
+(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
+ <./Lake.pdf, id=397, 469.755pt x 355.3275pt>
+File: ./Lake.pdf Graphic file (type pdf)
+
+<use ./Lake.pdf>
+Package pdftex.def Info: ./Lake.pdf used on input line 514.
+(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
+ <./Boat.pdf, id=398, 469.755pt x 355.3275pt>
+File: ./Boat.pdf Graphic file (type pdf)
+ <use ./Boat.pdf>
+Package pdftex.def Info: ./Boat.pdf used on input line 520.
+(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
+
+<./Peppers.pdf, id=399, 469.755pt x 355.3275pt>
+File: ./Peppers.pdf Graphic file (type pdf)
+ <use ./Peppers.pdf>
+Package pdftex.def Info: ./Peppers.pdf used on input line 527.
+(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
+
+<./Elaine.pdf, id=400, 469.755pt x 355.3275pt>
+File: ./Elaine.pdf Graphic file (type pdf)
+ <use ./Elaine.pdf>
+Package pdftex.def Info: ./Elaine.pdf used on input line 533.
+(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
+
+
+LaTeX Warning: Float too large for page by 22.06749pt on input line 538.
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 [][]
  []
 
-[4 <G:/Github/PVO_ctex/JRTIP/tex/figures/NL.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [5 <G:/Github/PVO_ctex/JRTIP/tex/figures/correlation_Lena.pdf> <G:/Github/PVO_
-ctex/JRTIP/tex/figures/correlation_Baboon.pdf> <G:/Github/PVO_ctex/JRTIP/tex/fi
-gures/correlation_Airplane.pdf> <G:/Github/PVO_ctex/JRTIP/tex/figures/proposed.
-png> <G:/Github/PVO_ctex/JRTIP/tex/figures/proposed2.png> <G:/Github/PVO_ctex/J
-RTIP/tex/figures/proposed_histogram.png> <G:/Github/PVO_ctex/JRTIP/tex/figures/
-proposed_histogram2.png>]
-Overfull \hbox (1.404pt too wide) in paragraph at lines 288--289
-\T1/ptm/m/n/10 ages in-clud-ing Lena, Ba-boon, Air-plane, Bar-bara, Lake, Boat,
-
+[6] [7 <D:/GitHub/PVO/JRTIP/tex/experiment_mapping.png>]
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][]
  []
 
-<./figures/experiment_mapping.png, id=368, 2999.205pt x 1221.81468pt>
-File: ./figures/experiment_mapping.png Graphic file (type png)
-
-<use ./figures/experiment_mapping.png>
-Package pdftex.def Info: ./figures/experiment_mapping.png used on input line 31
-5.
-(pdftex.def)             Requested size: 495.0pt x 201.64665pt.
-
-<./figures/Lena.pdf, id=369, 469.755pt x 355.3275pt>
-File: ./figures/Lena.pdf Graphic file (type pdf)
- <use ./figures/Lena.pdf>
-Package pdftex.def Info: ./figures/Lena.pdf used on input line 350.
-(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
-
-<./figures/Baboon.pdf, id=370, 469.755pt x 355.3275pt>
-File: ./figures/Baboon.pdf Graphic file (type pdf)
-
-<use ./figures/Baboon.pdf>
-Package pdftex.def Info: ./figures/Baboon.pdf used on input line 356.
-(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
-
-<./figures/Airplane.pdf, id=371, 469.755pt x 355.3275pt>
-File: ./figures/Airplane.pdf Graphic file (type pdf)
-
-<use ./figures/Airplane.pdf>
-Package pdftex.def Info: ./figures/Airplane.pdf used on input line 363.
-(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
-
-<./figures/Barbara.pdf, id=372, 469.755pt x 355.3275pt>
-File: ./figures/Barbara.pdf Graphic file (type pdf)
-
-<use ./figures/Barbara.pdf>
-Package pdftex.def Info: ./figures/Barbara.pdf used on input line 369.
-(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
-
-<./figures/Lake.pdf, id=373, 469.755pt x 355.3275pt>
-File: ./figures/Lake.pdf Graphic file (type pdf)
- <use ./figures/Lake.pdf>
-Package pdftex.def Info: ./figures/Lake.pdf used on input line 376.
-(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
-
-<./figures/Boat.pdf, id=374, 469.755pt x 355.3275pt>
-File: ./figures/Boat.pdf Graphic file (type pdf)
- <use ./figures/Boat.pdf>
-Package pdftex.def Info: ./figures/Boat.pdf used on input line 382.
-(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
-
-<./figures/Peppers.pdf, id=375, 469.755pt x 355.3275pt>
-File: ./figures/Peppers.pdf Graphic file (type pdf)
-
-<use ./figures/Peppers.pdf>
-Package pdftex.def Info: ./figures/Peppers.pdf used on input line 389.
-(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
-
-<./figures/Elaine.pdf, id=376, 469.755pt x 355.3275pt>
-File: ./figures/Elaine.pdf Graphic file (type pdf)
-
-<use ./figures/Elaine.pdf>
-Package pdftex.def Info: ./figures/Elaine.pdf used on input line 395.
-(pdftex.def)             Requested size: 207.8991pt x 157.25545pt.
-
-
-LaTeX Warning: Float too large for page by 22.06749pt on input line 400.
-
-
-Overfull \hbox (0.11404pt too wide) in paragraph at lines 456--457
+[8 <D:/GitHub/PVO/JRTIP/tex/Lena.pdf> <D:/GitHub/PVO/JRTIP/tex/Baboon.pdf> <D:/
+GitHub/PVO/JRTIP/tex/Airplane.pdf> <D:/GitHub/PVO/JRTIP/tex/Barbara.pdf> <D:/Gi
+tHub/PVO/JRTIP/tex/Lake.pdf> <D:/GitHub/PVO/JRTIP/tex/Boat.pdf> <D:/GitHub/PVO/
+JRTIP/tex/Peppers.pdf> <D:/GitHub/PVO/JRTIP/tex/Elaine.pdf>]
+Overfull \hbox (0.11404pt too wide) in paragraph at lines 548--549
 \T1/ptm/m/n/10 s, un-like pre-vi-ous PVO-based work-s [[]--[]], the prediction-
 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[][]
- []
-
-[6]
-Underfull \hbox (badness 1168) in paragraph at lines 494--496
+Underfull \hbox (badness 1168) in paragraph at lines 618--620
 []\T1/ptm/m/n/10 Hong, W.: Adap-tive re-versible da-ta hid-ing method
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 502--504
+Underfull \hbox (badness 1281) in paragraph at lines 626--628
 \T1/ptm/m/n/10 difference-histogram mod-i-fi-ca-tion. IEEE Tran-s. In-f.
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7 <G:/Github/PVO_ctex/JRTIP/tex/figures/experiment_mapping.png>]
-Underfull \hbox (badness 10000) has occurred while \output is active
-[][]
- []
-
-[8 <G:/Github/PVO_ctex/JRTIP/tex/figures/Lena.pdf> <G:/Github/PVO_ctex/JRTIP/te
-x/figures/Baboon.pdf> <G:/Github/PVO_ctex/JRTIP/tex/figures/Airplane.pdf> <G:/G
-ithub/PVO_ctex/JRTIP/tex/figures/Barbara.pdf> <G:/Github/PVO_ctex/JRTIP/tex/fig
-ures/Lake.pdf> <G:/Github/PVO_ctex/JRTIP/tex/figures/Boat.pdf> <G:/Github/PVO_c
-tex/JRTIP/tex/figures/Peppers.pdf> <G:/Github/PVO_ctex/JRTIP/tex/figures/Elaine
-.pdf>]
-Underfull \hbox (badness 4899) in paragraph at lines 554--556
+ [9]
+Underfull \hbox (badness 4899) in paragraph at lines 678--680
 []\T1/ptm/m/n/10 Jung, K.H.: High-capacity re-versible da-ta hid-ing
- []
-
-
-Underfull \hbox (badness 2042) in paragraph at lines 566--568
-\T1/ptm/m/n/10 error ex-pan-sion. Sig-nal Pro-cess.: Im-age Com-mun.
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 582--584
+Underfull \hbox (badness 2042) in paragraph at lines 698--700
+\T1/ptm/m/n/10 error ex-pan-sion. Sig-nal Pro-cess.: Im-age Com-mun.
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 714--716
 []\T1/ptm/m/n/10 He, W., X-iong, G., Weng, S., Cai, Z., Wang, Y.:
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 612.
-[9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 612.
- (G:\Github\PVO_ctex\JRTIP\tex\svjourn3-epjc.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 612.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 612.
-Package rerunfilecheck Info: File `svjourn3-epjc.out' has not changed.
-(rerunfilecheck)             Checksum: 07DF2230EC581B578950B7056E9B0156;249.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 748.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][]
+ []
+
+[10]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 748.
+ (D:\GitHub\PVO\JRTIP\tex\svjourn3-epjc.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 748.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 748.
+
+
+Package rerunfilecheck Warning: File `svjourn3-epjc.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `svjourn3-epjc.out':
+(rerunfilecheck)             Before: 703353D1BEACE16F35A33554DEB0E305;772
+(rerunfilecheck)             After:  07DF2230EC581B578950B7056E9B0156;249.
  ) 
 Here is how much of TeX's memory you used:
- 7255 strings out of 495354
- 103080 string characters out of 3183859
- 210631 words of memory out of 3000000
- 10162 multiletter control sequences out of 15000+200000
- 85334 words of font info for 166 fonts, out of 3000000 for 9000
+ 7415 strings out of 495354
+ 104818 string characters out of 3183858
+ 224978 words of memory out of 3000000
+ 10290 multiletter control sequences out of 15000+200000
+ 103009 words of font info for 195 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 42i,11n,34p,1977b,485s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,11n,34p,1948b,489s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{addr2} has been referenced but does not exist, re
 placed by a fixed one
 
@@ -819,9 +845,9 @@ sfonts/symbols/msbm10.pfb><C:/CTEX/MiKTeX/fonts/type1/hoekwater/rsfs/rsfs10.pfb
 w/symbol/usyr.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/CTEX/MiK
 TeX/fonts/type1/urw/times/utmr8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmr
 i8a.pfb>
-Output written on svjourn3-epjc.pdf (9 pages, 1615509 bytes).
+Output written on svjourn3-epjc.pdf (10 pages, 1698202 bytes).
 PDF statistics:
- 544 PDF objects out of 1000 (max. 8388607)
- 101 named destinations out of 1000 (max. 500000)
+ 572 PDF objects out of 1000 (max. 8388607)
+ 112 named destinations out of 1000 (max. 500000)
  136 words of extra memory for PDF output out of 10000 (max. 10000000)
 
